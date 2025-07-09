@@ -3,7 +3,7 @@ import requests
 import json
 import random
 # Set Vestaboard API key
-VBKEY = "0c86c47a+ebb0+4158+b59d+a9c3d5838482"
+VBKEY = "put your own key here"
 # Set Vestaboard URL
 url = "https://rw.vestaboard.com/"
 # Create header
