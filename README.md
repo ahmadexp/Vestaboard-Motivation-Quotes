@@ -1,1 +1,1 @@
-Send to your vestaboard one of the motivational quotes randomly.
+## Send to your vestaboard one of the motivational quotes randomly.
